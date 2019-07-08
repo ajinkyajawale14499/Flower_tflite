@@ -51,6 +51,8 @@ All you need to do is unfreeze the base_model and set the bottom layers be un-tr
 
 https://colab.research.google.com/github/tensorflow/examples/blob/master/community/en/flowers_tf_lite.ipynb#scrollTo=NtUnaz0WUDva&line=3&uniqifier=1
 
+![download (1)](https://user-images.githubusercontent.com/26092430/60843708-0a194b00-a1f5-11e9-904a-e87121152346.png)
+
 Convert to TFLite
 Saved the model using tf.saved_model.save and then convert the saved model to a tf lite compatible format.
 
@@ -60,5 +62,16 @@ Using a pre-trained model for feature extraction: When working with a small data
 
 Fine-tuning a pre-trained model: To further improve performance, one might want to repurpose the top-level layers of the pre-trained models to the new dataset via fine-tuning. In this case, you tuned your weights such that your model learned high-level features specific to the dataset. This technique is usually recommended when the training dataset is large and very similar to the orginial dataset that the pre-trained model was trained on.
 
+ 
+ My blog is here...!
+ 
+ Part 1: 
+ 
+ https://medium.com/@ajinkyajawale/recognize-flowers-using-transfer-learning-26c2188c50ba
+ 
+ Part 2:
+ 
+ https://medium.com/@ajinkyajawale/recognize-flowers-using-transfer-learning-80f7e086612b
+ 
  
  
