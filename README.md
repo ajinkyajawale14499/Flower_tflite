@@ -34,6 +34,8 @@ https://colab.research.google.com/github/tensorflow/examples/blob/master/communi
  
  4.4 learning curves
  
+ ![download](https://user-images.githubusercontent.com/26092430/60843559-a42cc380-a1f4-11e9-91d6-c9ce144ca248.png)
+
  https://colab.research.google.com/github/tensorflow/examples/blob/master/community/en/flowers_tf_lite.ipynb#scrollTo=53OTCh3jnbwV&line=2&uniqifier=1
 
 5. fine Tuning 
